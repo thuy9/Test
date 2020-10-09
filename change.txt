@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Chi Thuy Edit lan 5
+=======
+ Thuy Edit lan 3
+>>>>>>> parent of 733d1d5... Thuy commit lan 4
